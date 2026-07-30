@@ -1,0 +1,15 @@
+{
+  "name": "neura-demo",
+  "version": "1.0.0",
+  "description": "NEURA - Núcleo cognitivo de IA. Demo funcional para inversores.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
